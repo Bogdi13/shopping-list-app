@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+.toast-success {
+  background-color: rgb(
+    197,
+    235,
+    197
+  ) !important; // Fundal verde pentru mesaje de succes
+  color: rgb(42, 173, 42);
+}
+
+.toast-error {
+  background-color: rgb(
+    247,
+    183,
+    183
+  ) !important; // Fundal roșu pentru mesaje de eroare
+  color: rgb(184, 35, 35);
+}

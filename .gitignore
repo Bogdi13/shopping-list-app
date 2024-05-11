@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+/IndividualProjectAPI/env/
+
+# Ignore Angular node modules
+/IndividualProjectUI/node_modules/
